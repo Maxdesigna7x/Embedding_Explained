@@ -2,6 +2,8 @@
 
 App React interactiva con slides navegables, grid procedural y visualizaciones de embeddings.
 
+![Pipeline](preview.png)
+
 ## Instalar
 
 ```bash
